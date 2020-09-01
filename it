@@ -175,7 +175,7 @@ case $id in
         ;;
     7)
         while [ ! -f ${DIR}/superbench2.sh ]; do
-            wget -N -P ${DIR} --no-check-certificate https://raw.githubusercontent.com/zzycwmx/CDN/master/superbench2.sh
+            wget -N -P ${DIR} --no-check-certificate https://raw.githubusercontent.com/TT-IPIP/cesu/master/superbench2.sh
         done
         bash ${DIR}/superbench2.sh
         break
