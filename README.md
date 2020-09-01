@@ -2,7 +2,7 @@
 
 `wget https://github.com/TT-IPIP/cesu/raw/master/it && bash it`
 
-1. bench.sh
+> 1. bench.sh
 2. LemonBench
 3. superspeed
 4. superbench修复版
